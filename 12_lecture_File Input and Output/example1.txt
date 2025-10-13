@@ -1,0 +1,3 @@
+This is Example 1.
+Python file handling is easy!
+I just appended this line!
