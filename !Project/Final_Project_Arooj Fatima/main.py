@@ -18,6 +18,7 @@ def main():
         user_input = input(f"{user_name}: ")
         if user_input.lower() in ["bye", "exit"]:
             print("Assistant: Goodbye! Take care 😊")
+            break
         response = bot.get_response(user_input)
         print("Assistant:", response)
 
