@@ -1,4 +1,4 @@
-# MetaLearn Smart Assistant 🤖
+# MetaLearn Smart Assistant 
 
 ## Description
 This is a **console-based Python Smart Assistant** built using only core Python concepts.  
